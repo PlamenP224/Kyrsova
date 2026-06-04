@@ -5,7 +5,7 @@
 ---
 
 ## Docker Hub Линкове
-* **Уеб приложение (PHP/Apache):** [Линк към Docker Hub профила](https://hub.docker.com/)
+* **Уеб приложение (PHP/Apache):** [Линк към Docker Hub профила]([https://hub.docker.com/](https://hub.docker.com/repository/docker/plamen7777/kyrsova/general))
 * **База данни:** Използва официален сертифициран образ на mysql:8.0
 
 ---
